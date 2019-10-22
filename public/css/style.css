@@ -1,0 +1,47 @@
+.under {
+    margin: 15px 300px;
+    font-style: oblique;
+    letter-spacing: 0px;
+    text-shadow: 2px 2px 4px #756060;
+}
+
+.shadow-lg {
+    box-shadow: 0 1rem 3rem rgba(0, 0, 0, .575) !important;
+}
+
+.fa,
+.fab,
+.fal,
+.far,
+.fas {
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    display: inherit;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 1;
+    font-size: 113px;
+}
+
+.tbcss {
+    border-radius: 19px;
+    border-style: solid;
+    border-color: aqua;
+
+}
+
+.bg-dark {
+
+    background-color: #282e35 !important;
+    height: 85px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: aqua;
+}
+
+.card {
+    border: 3px solid transparent;
+    border-image: linear-gradient(to bottom right, #b827fc 0%, #2c90fc 25%, #b8fd33 50%, #fec837 75%, #fd1892 100%);
+    border-image-slice: 1;
+}
